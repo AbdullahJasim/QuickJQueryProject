@@ -1,0 +1,19 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: #CFC;
+}
+
+.highlight {
+  background-color: #FCC;
+}
+
+.box-btn {
+  width: 100px;
+  height: 20px;
+  background-color: #CCF;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
